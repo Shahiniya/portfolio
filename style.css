@@ -189,6 +189,7 @@ section{
 .about .content .col-right{
     position: relative;
     width:45%;
+    margin-top: 10px;
 }
 
 .about .content .img-card{
@@ -298,7 +299,7 @@ section{
 }
 
 .work .content .card{
-    width: 340px;
+    width: 540px;
     margin:15px;
     }
 
